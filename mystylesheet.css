@@ -61,10 +61,22 @@ p {
   font-family: Verdana, sans-serif;
   
   font-size: 16px;
+  
+  margin-top: 30px;
+	
+  margin-bottom: 30px;
+	
+  margin-right: 30px;
+	
+  margin-left: 30px;
 }
 
 /* this is the css to make my images float next to my paragraphs */
 
 img {
   float: right;
+
+  margin-top: 30px;
+	
+  margin-bottom: 30px;
 }
