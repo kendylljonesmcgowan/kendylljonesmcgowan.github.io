@@ -32,11 +32,11 @@ li a {
 }
 
 li a:hover:not(.active) {
-  background-color: #616161;
+  background-color:  #3c3c3c;
 }
 
 .active {
-	background-color: 	#b4b4b4;
+	background-color: #b4b4b4;
 }
 
 /* this is the css for all heading text on my website */
@@ -84,3 +84,21 @@ img {
 	
   margin-left: 50px;
 }
+
+/* this is the css to design my social icon links. inspired by a youtube tutorial by dcode: https://www.youtube.com/watch?v=Hskt1jN7JTc */
+
+.social {
+	color: #3c3c3c;
+	
+	size: 50px;
+	
+	transition: color 0.2s;
+	
+	text-decoration: none;
+}
+
+.social:hover {
+	
+	color: #b4b4b4;
+}
+		
