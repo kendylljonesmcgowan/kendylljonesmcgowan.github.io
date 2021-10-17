@@ -24,19 +24,11 @@ li {
 
 li a {
   display: block;
-  color: white;
+  color: #b4b4b4;
   text-align: center;
   font-family: Verdana, sans-serif;
   padding: 16px 18px;
   text-decoration: none;
-}
-
-li a:hover:not(.active) {
-  background-color:  #3c3c3c;
-}
-
-.active {
-	background-color: #b4b4b4;
 }
 
 /* this is the css for all heading text on my website */
