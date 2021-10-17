@@ -1,0 +1,70 @@
+/* this is my "mystylesheet" CSS for my personal website */
+
+/* to be submitted as a deliverable for GEOM 101 - as part of the GIS Specialist program at Fleming College */
+
+/* this is the css for my webpage background */
+
+body {
+  background-color: #696969;
+}
+
+/* this is the css for my navbar design. inspired by w3schools.com: https://www.w3schools.com/css/css_navbar_horizontal.asp */
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #3c3c3c;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  font-family: Verdana, sans-serif;
+  padding: 16px 18px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #616161;
+}
+
+.active {
+	background-color: 	#b4b4b4;
+}
+
+/* this is the css for all heading text on my website */
+
+h1 {
+  color: #b4b4b4;
+  
+  text-align: center;
+  
+  font-family: Verdana, sans-serif;
+  
+  font-size: 60px;
+}
+
+/* this is the css for all paragraph text on my website */
+
+p {
+  color: #b4b4b4;
+  
+  text-align: left;
+  
+  font-family: Verdana, sans-serif;
+  
+  font-size: 16px;
+}
+
+/* this is the css to make my images float next to my paragraphs */
+
+img {
+  float: right;
+}
