@@ -76,13 +76,13 @@ p {
 img {
   float: right;
 
-  margin-top: 50px;
+  margin-top: 200px;
 	
-  margin-bottom: 50px;
+  margin-bottom: 200px;
 	
-  margin-right: 50px;
+  margin-right: 80px;
 	
-  margin-left: 50px;
+  margin-left: 80px;
 }
 
 /* this is the css to design my social icon links. inspired by a youtube tutorial by dcode: https://www.youtube.com/watch?v=Hskt1jN7JTc */
@@ -90,7 +90,7 @@ img {
 .social {
 	color: #3c3c3c;
 	
-	font-size: 30px;
+	font-size: 40px;
 	
 	margin-left: 100px;
 	
