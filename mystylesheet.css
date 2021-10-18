@@ -2,7 +2,7 @@
 
 /* to be submitted as a deliverable for GEOM 101 - as part of the GIS Specialist program at Fleming College */
 
-/* this is the css for my webpage background */
+/* this is the css for my webpage body. the colour and font size elements have been added for overriding purposes */
 
 body {
   background-color: #696969;
@@ -99,7 +99,7 @@ img {
 	
 	font-size: 40px;
 	
-	margin-left: 100px;
+	margin-left: 200px;
 	
 	transition: color 0.2s;
 	
