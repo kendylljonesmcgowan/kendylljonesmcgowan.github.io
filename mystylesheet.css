@@ -6,15 +6,25 @@
 
 body {
   background-color: #696969;
+	
+  font-family: Verdana, sans-serif;
+	
+  color: white;
+
+  font-size: 20px;
 }
 
 /* this is the css for my navbar design. inspired by w3schools.com: https://www.w3schools.com/css/css_navbar_horizontal.asp */
 
 ul {
   list-style-type: none;
+	
   margin: 0;
+	
   padding: 0;
+	
   overflow: hidden;
+	
   background-color: #3c3c3c;
 }
 
@@ -24,21 +34,24 @@ li {
 
 li a {
   display: block;
+	
   color: #b4b4b4;
+	
   text-align: center;
+	
   font-family: Verdana, sans-serif;
+	
   padding: 16px 18px;
+	
   text-decoration: none;
 }
 
-/* this is the css for all heading text on my website */
+/* this is the css for all heading 1 text on my website */
 
 h1 {
   color: #b4b4b4;
   
   text-align: center;
-  
-  font-family: Verdana, sans-serif;
   
   font-size: 60px;
 }
@@ -49,8 +62,6 @@ p {
   color: #b4b4b4;
   
   text-align: left;
-  
-  font-family: Verdana, sans-serif;
   
   font-size: 16px;
   
@@ -68,13 +79,13 @@ p {
 img {
   float: right;
 
-  margin-top: 200px;
+  margin-top: 100px;
 	
-  margin-bottom: 200px;
+  margin-bottom: 100px;
 	
-  margin-right: 80px;
+  margin-right: 50px;
 	
-  margin-left: 80px;
+  margin-left: 50px;
 	
   height: 40%;
 	
