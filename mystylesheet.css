@@ -74,7 +74,7 @@ p {
   margin-left: 50px;
 }
 
-/* this is the css to make my images float next to my paragraphs */
+/* this is the css to make my images float next to my paragraphs. inspired by w3schools: https://www.w3schools.com/css/css_float.asp */
 
 img {
   float: right;
@@ -85,7 +85,7 @@ img {
 	
   margin-right: 50px;
 	
-  margin-left: 50px;
+  margin-left: 80px;
 	
   height: 40%;
 	
