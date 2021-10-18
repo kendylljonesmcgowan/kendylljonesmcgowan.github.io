@@ -79,17 +79,17 @@ p {
 img {
   float: right;
 
-  margin-top: 50px;
+  margin-top: 30px;
 	
-  margin-bottom: 50px;
+  margin-bottom: 30px;
 	
   margin-right: 50px;
 	
   margin-left: 50px;
 	
-  height: 30%;
+  height: 40%;
 	
-  width: 30%;
+  width: 40%;
 }
 
 /* this is the css to design my social icon links. inspired by a youtube tutorial by dcode: https://www.youtube.com/watch?v=Hskt1jN7JTc */
