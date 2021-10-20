@@ -2,6 +2,12 @@
 
 /* to be submitted as a deliverable for GEOM 101 - as part of the GIS Specialist program at Fleming College */
 
+/* this is the css for my title. I dont want a title feature so the content will be the same colour as the background */
+
+title {
+    color: #696969
+}
+
 /* this is the css for my webpage body. the colour and font size elements have been added for overriding purposes */
 
 body {
@@ -79,9 +85,9 @@ p {
 img {
   float: right;
 
-  margin-top: 20px;
+  margin-top: 10px;
 	
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 	
   margin-right: 20px;
 	
